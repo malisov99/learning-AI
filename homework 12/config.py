@@ -1,0 +1,2 @@
+API_TOKEN = "8388172420:AAGuB4eb86Z-QFH9UWOxc1ONkb4gc3Xj0jg"
+DB_NAME = "quiz_bot.db"
